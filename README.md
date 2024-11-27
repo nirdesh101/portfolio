@@ -1,9 +1,9 @@
-#Software Developer
+# Software Developer
 
-#Education
+# Education
 Computer science, UAS
 
-#Experience
+# Experience
 Junior Software Developer @ Truemark Technology
 - Client Projects
 - Inhouse Projects
